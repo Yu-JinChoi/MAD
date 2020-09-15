@@ -1,0 +1,1 @@
+cmd_/home/csemad/lab2_led/led_driver.ko := ld -EL -r  -T /home/csemad/kernel/scripts/module-common.lds --build-id  -o /home/csemad/lab2_led/led_driver.ko /home/csemad/lab2_led/led_driver.o /home/csemad/lab2_led/led_driver.mod.o

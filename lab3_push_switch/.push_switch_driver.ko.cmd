@@ -1,0 +1,1 @@
+cmd_/home/csemad/lab3_led/push_switch_driver.ko := ld -EL -r  -T /home/csemad/kernel/scripts/module-common.lds --build-id  -o /home/csemad/lab3_led/push_switch_driver.ko /home/csemad/lab3_led/push_switch_driver.o /home/csemad/lab3_led/push_switch_driver.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/csemad/lab4_dot/dot_matrix_driver.ko := ld -EL -r  -T /home/csemad/kernel/scripts/module-common.lds --build-id  -o /home/csemad/lab4_dot/dot_matrix_driver.ko /home/csemad/lab4_dot/dot_matrix_driver.o /home/csemad/lab4_dot/dot_matrix_driver.mod.o

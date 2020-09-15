@@ -1,0 +1,4 @@
+kernel//home/csemad/lab5_tetris/push_switch_driver.ko
+kernel//home/csemad/lab5_tetris/led_driver.ko
+kernel//home/csemad/lab5_tetris/fnd_driver.ko
+kernel//home/csemad/lab5_tetris/dot_matrix_driver.ko
