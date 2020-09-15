@@ -1,0 +1,1 @@
+cmd_/home/csemad/lab1_module/hello_module.ko := ld -EL -r  -T /usr/kernel/scripts/module-common.lds --build-id  -o /home/csemad/lab1_module/hello_module.ko /home/csemad/lab1_module/hello_module.o /home/csemad/lab1_module/hello_module.mod.o
