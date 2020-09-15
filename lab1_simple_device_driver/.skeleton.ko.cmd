@@ -1,0 +1,1 @@
+cmd_/home/csemad/lab1_simple_device_driver/skeleton.ko := ld -EL -r  -T /usr/kernel/scripts/module-common.lds --build-id  -o /home/csemad/lab1_simple_device_driver/skeleton.ko /home/csemad/lab1_simple_device_driver/skeleton.o /home/csemad/lab1_simple_device_driver/skeleton.mod.o
